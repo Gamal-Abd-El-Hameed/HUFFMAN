@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="huffman_19015550:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/huffman_19015550_jar</output-path>
+    <root id="archive" name="HUFFMAN.jar">
+      <element id="module-output" name="HUFFMAN" />
+      <element id="module-source" name="HUFFMAN" />
+    </root>
+  </artifact>
+</component>
